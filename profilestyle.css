@@ -14,14 +14,18 @@ hr {
   margin-right: auto;
 }
 
+label {
+  font-size: 10px;
+}
+
 input[type="checkbox"] {
   transform: scale(1.3);
 }
 
-.btn-dropdown {
-  padding: 5px 10px;
-  font-size: 5px;
-  border-radius: 5px;
+.btn {
+  border: 2px solid gray;
+  transform: scale(0.8);
+  padding: 0 0;
 }
 
 button {
@@ -36,8 +40,10 @@ button {
 
 #cancel {
   border: 2px solid gray;
+  transform: scale(0.8);
 }
 
 #delete {
   border: 2px solid gray;
+  transform: scale(0.8);
 }
