@@ -23,3 +23,21 @@ input[type="checkbox"] {
   font-size: 5px;
   border-radius: 5px;
 }
+
+button {
+  margin-bottom: 10px;
+}
+
+#save {
+  border: 2px solid white;
+  background-color: white;
+  transform: scale(0.8);
+}
+
+#cancel {
+  border: 2px solid gray;
+}
+
+#delete {
+  border: 2px solid gray;
+}
